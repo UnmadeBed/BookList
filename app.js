@@ -86,6 +86,9 @@ class Store {
   }
 }
 
+
+// EVENTS ==================================================================================
+
 // Event: Display books
 document.addEventListener('DOMContentLoaded', UI.displayBooks);
 
